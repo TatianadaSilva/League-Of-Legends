@@ -1,0 +1,36 @@
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: #474843;
+    background-color:#b4b4b4;
+    text-decoration: overline;
+    text-align: center;
+    
+}
+body{
+ background-image: url(..//images/fundo.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: top;
+ padding: 16px;
+ 
+ 
+}
+p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    
+}
+img{
+    width:400px;
+    height: 400px;
+    margin-left: auto; 
+}
+marquee{
+    color: cornsilk;
+}
+
